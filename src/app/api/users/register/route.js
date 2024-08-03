@@ -9,7 +9,7 @@ connect()
 
 export async function POST(request) {
     try {
-        const reqBody = request.josn()
+        const reqBody = await request.json()
         const { username, email, password } = reqBody
 
         console.log(reqBody);
