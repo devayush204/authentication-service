@@ -40,12 +40,11 @@ const login = () => {
   
 <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
   <div className="mx-auto max-w-lg">
-  <h1 className='text-center text-2xl font-bold text-pink-600 mb-3 sm:text-3xl'>{loading ? "Processing" : "Login"}</h1>
+  <h1 className='text-center text-2xl font-bold text-pink-600 mb-3run sm:text-3xl'>{loading ? "Processing" : "Login"}</h1>
     <h1 className="text-center text-2xl font-bold text-indigo-600 sm:text-3xl">Login to your account</h1>
 
     <p className="mx-auto mt-4 max-w-md text-center text-gray-500">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati sunt dolores deleniti
-      inventore quaerat mollitia?
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur natus est optio non eos odit earum, officiis ad ipsa illo.
     </p>
 
     <form action="#" className="mb-0 mt-6 space-y-4 rounded-lg p-4 shadow-lg sm:p-6 lg:p-8">
